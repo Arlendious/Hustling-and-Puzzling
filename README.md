@@ -13,6 +13,9 @@
 * This repository showcases all my projects which were made in my learning process
 * Started this Repo on: Jan 15 2023
 
+##Projects
+* 1. Sudoku Solver
+
 ## Author
 * Marreddi Jayanth Sai 
 * ABV-IIITM Gwalior B.Tech-CSE 25'
