@@ -54,7 +54,7 @@ if __name__ == '__main__':
     execution_board=[[[] for j in range(9)] for i in range(9)]
     for i in range(9):
         for j in range(9):
-            number=int(input("Please Enter Elements of Matrix A:")) 
+            number=int(input("Enter value:")) 
             if number==0:
                 execution_board[i][j]=-1
             else:
